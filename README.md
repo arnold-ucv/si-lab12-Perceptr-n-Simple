@@ -1,4 +1,4 @@
-# 🧠 Perceptrón Simple — Aprobación Preliminar de Créditos
+# Perceptrón Simple — Aprobación Preliminar de Créditos
 
 Implementación desde cero en Python de un **Perceptrón Simple**, aplicado a un caso de negocio bancario para automatizar la aprobación preliminar de créditos mediante la evaluación de dos variables: el ingreso mensual y el historial crediticio de los solicitantes.
 
